@@ -1,0 +1,83 @@
+[
+    {
+      "avatar": "https://i.ibb.co/4Kr5ZVf/p3.jpg",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Main St, Cityville, State",
+      "company_name": "ABC Company"
+    },
+    {
+      "avatar": "https://i.ibb.co/7NL3M2J/p2.jpg",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Elm St, Townsville, State",
+      "company_name": "XYZ Corporation"
+    },
+    {
+      "avatar": "https://i.ibb.co/rkVQd49/p1.jpg",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "address": "789 Oak St, Villageton, State",
+      "company_name": "123 Industries"
+    },
+    {
+      "avatar": "https://i.ibb.co/kKXH6xV/medium-shot-young-boy-boxing.jpg",
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown@example.com",
+      "address": "101 Pine St, Hamletsville, State",
+      "company_name": "Brown & Sons"
+    },
+    {
+      "avatar": "https://i.ibb.co/vkDpDmP/pexels-stefan-stefancik-91227.jpg",
+      "first_name": "David",
+      "last_name": "Lee",
+      "email": "david.lee@example.com",
+      "address": "246 Maple St, Countryside, State",
+      "company_name": "Lee Enterprises"
+    },
+    {
+      "avatar": "https://i.ibb.co/mNqXr8f/pexels-andrea-piacquadio-712513.jpg",
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "email": "sarah.wilson@example.com",
+      "address": "369 Birch St, Suburbia, State",
+      "company_name": "Wilson & Co."
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "first_name": "James",
+      "last_name": "Taylor",
+      "email": "james.taylor@example.com",
+      "address": "852 Cedar St, Riverside, State",
+      "company_name": "Taylor Enterprises"
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "first_name": "Jessica",
+      "last_name": "Miller",
+      "email": "jessica.miller@example.com",
+      "address": "753 Pine St, Lakeside, State",
+      "company_name": "Miller Co."
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "first_name": "Christopher",
+      "last_name": "Wilson",
+      "email": "christopher.wilson@example.com",
+      "address": "963 Oak St, Hilltown, State",
+      "company_name": "Wilson Corporation"
+    },
+    {
+      "avatar": "https://images.pexels.com/photos/1212984/pexels-photo-1212984.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "first_name": "Amanda",
+      "last_name": "Davis",
+      "email": "amanda.davis@example.com",
+      "address": "159 Elm St, Mountainville, State",
+      "company_name": "Davis Group"
+    }
+  ]
+  
