@@ -17,7 +17,7 @@ const Banner = () => {
         >
           <div className="text-center lg:text-left">
             <h2 className="text-3xl lg:text-4xl font-bold lg:px-5 border-l-8 border-orange-500">
-              Let's Explore The Best Properties
+              Best User Handling Application
             </h2>
             <p className="w-[90%]  py-5 font-medium">
               Our agents set goals to help guide both the long- and short-term
