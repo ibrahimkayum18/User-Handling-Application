@@ -11,19 +11,9 @@ const UserList = () => {
   // const [newUsers, serNewUsers] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const { users, refetch, isLoading } = useUsers();
-  const [sortBy, setSortBy] = useState(users);
-  console.log("Usrrs ", users);
-
-  // useEffect(() => {
-  //   const data = users.filter(item => console.log(item.company.name.toLowerCase()))
-  // },[users])
-
-  // useEffect(() => {
-  //   const data = users.filter((item) =>
-  //     item.firstName.toLowerCase().includes(searchQuery)
-  //   );
-  //   console.log(data);
-  // }, [users, searchQuery]);
+  const [sortBy, setSortBy] = useState('');
+  console.log(searchQuery);
+  
   if (isLoading) {
     return <Loading />;
   }
@@ -81,7 +71,9 @@ const UserList = () => {
         sortBy={sortBy}
       /> */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 px-5">
-        {users.map((user) => (
+        {users.filter(item => {
+              return searchQuery.toLowerCase() === '' ? item : item.first_name.toLowerCase().includes(searchQuery);
+            }).map((user) => (
           <div
             className="bg-gray-200 p-5 md:rounded-lg"
             key={user.id}
